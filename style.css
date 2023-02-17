@@ -1,7 +1,7 @@
 body {
   margin: 40;
   font-family: Arial;
-	background-image:url(.PORTFOLIO/images/green_stars.jpg);
+	background-image:url(".PORTFOLIO/images/green_stars.jpg");
 }
 
 header {
